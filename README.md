@@ -1,2 +1,2 @@
 # cc-clustering-upnyk
-streamlit app deployed on heroku
+Hasil deployment: https://cc-clustering-ifupnyk.herokuapp.com/
