@@ -1,2 +1,2 @@
 # cc-clustering-upnyk
-Hasil deployment: https://cc-clustering-ifupnyk.herokuapp.com/
+Hasil deployment: https://cc-clustering-upnyk.streamlit.app/
