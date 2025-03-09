@@ -21,7 +21,6 @@ CreditCard_df.loc[(CreditCard_df['Batas Kredit'].isnull() == True), 'Batas Kredi
 CreditCard_df.loc[(CreditCard_df['Total Pembayaran Min'].isnull() == True), 'Total Pembayaran Min'] = CreditCard_df['Total Pembayaran Min'].median()
 
 ##UI
-st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title("Segmentasi Pelanggan Kartu Kredit")
 
 st.sidebar.title("Model Credit Card Clustering")
